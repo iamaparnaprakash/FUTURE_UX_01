@@ -58,7 +58,7 @@ This improves user experience by:
 <img src="web design/home.png">
 
 ### 🛠️ Services / Categories Page
-<img src="web design/services.png">
+<img src="web design/categories.png">
 
 ### ℹ️ About Page
 <img src="web design/about.png">
