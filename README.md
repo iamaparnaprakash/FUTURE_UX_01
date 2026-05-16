@@ -75,8 +75,8 @@ This improves user experience by:
 ---
 
 ## 🔗 Figma Prototype
-
-(https://www.figma.com/proto/I1qJQ0stpJPJWZYOUxnOY0/Untitled?node-id=1-5&p=f&t=qKDUCuDkXwca7zOI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+1
+(https://www.figma.com/proto/I1qJQ0stpJPJWZYOUxnOY0/web-design?node-id=1-5&p=f&t=hkXhp1BVoymxkGPk-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ---
 
